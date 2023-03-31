@@ -123,7 +123,7 @@ namespace Tictactoe
         private void Form1_Load(object sender, EventArgs e)
         {
             InitAllComponents();
-            SetupGameTimer(); // Increments every 1 second
+            SetupGameTimer(); // Increments every 1 second ...
             SetupGameFiles();
             GetPlayerList();
         }
