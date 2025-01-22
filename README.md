@@ -10,7 +10,7 @@ Two Players: Play against a friend on the same computer.
 ![App Screenshot](Tictactoe/imgs/mainMenu.png)
 
 
-##Player Selection
+## Player Selection
 After selecting the game mode, you'll move to the player selection process:
 
 Who are you?: This screen asks if you are a new or returning player.
@@ -35,6 +35,8 @@ Select your profile from the list and click the Select button to proceed.
 
 ## Playing the Game
 Once both players are selected (either by creating new profiles or selecting existing ones), you can start playing Tic-Tac-Toe:
+
+![App Screenshot](Tictactoe/imgs/game.PNG)
 
 ## Game Play:
 Single Player (AI): You'll play against an AI that uses the Minimax algorithm, which ensures optimal play from the AI, making it quite challenging.
