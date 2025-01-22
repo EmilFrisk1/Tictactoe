@@ -14,10 +14,10 @@ Two Players: Play against a friend on the same computer.
 After selecting the game mode, you'll move to the player selection process:
 
 Who are you?: This screen asks if you are a new or returning player.
-
 New Player: If you're new, you'll be directed to create a new player profile.
-
 Old Player: If you've played before, you can select an existing player.
+
+![App Screenshot](Tictactoe/imgs/selectPlayerSingle.PNG)
 
 Create New Player:
 
@@ -30,6 +30,8 @@ Search For Players:
 For existing players, you can search for your profile by typing in your name or part of it in the search field.
 The application will list found players in a dropdown under "Found Players".
 Select your profile from the list and click the Select button to proceed.
+
+![App Screenshot](Tictactoe/imgs/createUser.PNG)
 
 ## Playing the Game
 Once both players are selected (either by creating new profiles or selecting existing ones), you can start playing Tic-Tac-Toe:
