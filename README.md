@@ -31,6 +31,8 @@ For existing players, you can search for your profile by typing in your name or 
 The application will list found players in a dropdown under "Found Players".
 Select your profile from the list and click the Select button to proceed.
 
+![App Screenshot](Tictactoe/imgs/createUser.PNG)
+
 ## Playing the Game
 Once both players are selected (either by creating new profiles or selecting existing ones), you can start playing Tic-Tac-Toe:
 
