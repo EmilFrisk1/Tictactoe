@@ -1,5 +1,8 @@
-Mauno(AI),unknown,2022,4,0,7,212,0
-asdasdasd,adasdasd,1234,0,3,3,38,1
+Mauno(AI),unknown,2022,6,0,8,242,0
+asdasdasd,adasdasd,1234,0,4,4,55,1
 asdasd,asdasd,1234,1,2,2,62,2
 asdasdasda,asaasdasd,1231,1,0,2,23,3
 asdasdad,asdasdasd,1234,0,1,0,101,4
+asda,asdas,2222,0,1,0,13,5
+asdasd,asdasda,2222,0,0,0,0,6
+Pekka,Pekkanen,1995,0,0,0,0,7
