@@ -40,10 +40,14 @@ Once both players are selected (either by creating new profiles or selecting exi
 
 ## Game Play:
 Single Player (AI): You'll play against an AI that uses the Minimax algorithm, which ensures optimal play from the AI, making it quite challenging.
-Two Players: You and your friend take turns to place 'X' or 'O' on the board. The first to get three in a row wins.
+Two Players: You and your friend take turns to place 'X' or 'O' on the board. The first to get three in a row wins. After game ends you can select if you want to play again or not.
+
+![App Screenshot](Tictactoe/imgs/gameEnd.PNG)
 
 ## Scoreboard
 You can select to see scoreboard from the top left corner. It tracks all players wins, losses and draws.
+
+![App Screenshot](Tictactoe/imgs/scoreboard.PNG)
 
 ## Features
 Player Management: Ability to create new players or select existing ones.
