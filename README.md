@@ -5,7 +5,7 @@ Tic-Tac-Toe WinForms Game
 Main Menu: Upon launching the application, you are greeted with the main menu where you can choose your game mode:
 Single Player (AI): Play against an AI opponent that uses the Minimax algorithm, making it challenging to win.
 Two Players: Play against a friend on the same computer.
-![App Screenshot](Tictactoe/imgs/mainMenu.jpg)
+![App Screenshot](Tictactoe/imgs/mainMenu.png)
 
 ##Player Selection
 After selecting the game mode, you'll move to the player selection process:
