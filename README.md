@@ -33,6 +33,10 @@ Select your profile from the list and click the Select button to proceed.
 
 ![App Screenshot](Tictactoe/imgs/createUser.PNG)
 
+Select existing Player:
+
+![App Screenshot](Tictactoe/imgs/existingPlayer.PNG)
+
 ## Playing the Game
 Once both players are selected (either by creating new profiles or selecting existing ones), you can start playing Tic-Tac-Toe:
 
