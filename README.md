@@ -17,7 +17,7 @@ Who are you?: This screen asks if you are a new or returning player.
 New Player: If you're new, you'll be directed to create a new player profile.
 Old Player: If you've played before, you can select an existing player.
 
-![App Screenshot](Tictactoe/imgs/selectPlayerSingle.png)
+![App Screenshot](Tictactoe/imgs/selectPlayerSingle.PNG)
 
 Create New Player:
 
