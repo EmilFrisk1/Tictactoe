@@ -1,11 +1,14 @@
 Tic-Tac-Toe WinForms Game
 #Welcome to the Tic-Tac-Toe game developed using Windows Forms (WinForms). This README provides an overview of how to navigate and play the game.
 
-##Getting Started
+## Getting Started
 Main Menu: Upon launching the application, you are greeted with the main menu where you can choose your game mode:
 Single Player (AI): Play against an AI opponent that uses the Minimax algorithm, making it challenging to win.
 Two Players: Play against a friend on the same computer.
-![App Screenshot](images/mainMenu.jpg)
+
+
+![App Screenshot](Tictactoe/imgs/mainMenu.png)
+
 
 ##Player Selection
 After selecting the game mode, you'll move to the player selection process:
@@ -28,23 +31,23 @@ For existing players, you can search for your profile by typing in your name or 
 The application will list found players in a dropdown under "Found Players".
 Select your profile from the list and click the Select button to proceed.
 
-##Playing the Game
+## Playing the Game
 Once both players are selected (either by creating new profiles or selecting existing ones), you can start playing Tic-Tac-Toe:
 
-##Game Play:
+## Game Play:
 Single Player (AI): You'll play against an AI that uses the Minimax algorithm, which ensures optimal play from the AI, making it quite challenging.
 Two Players: You and your friend take turns to place 'X' or 'O' on the board. The first to get three in a row wins.
 
-##Scoreboard
+## Scoreboard
 You can select to see scoreboard from the top left corner. It tracks all players wins, losses and draws.
 
-##Features
+## Features
 Player Management: Ability to create new players or select existing ones.
 Advanced AI: Utilizes the Minimax algorithm for a challenging single-player experience.
 Simple UI: User-friendly interface designed for ease of use.
 You can return to the main menu any time from the top left corner.
 
-##Notes
+## Notes
 Ensure you have the .NET Framework installed to run this WinForms application.
 The game saves player profiles locally, so make sure you have write permissions in the application directory.
 
