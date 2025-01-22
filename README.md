@@ -45,6 +45,8 @@ Two Players: You and your friend take turns to place 'X' or 'O' on the board. Th
 ## Scoreboard
 You can select to see scoreboard from the top left corner. It tracks all players wins, losses and draws.
 
+![App Screenshot](Tictactoe/imgs/scoreboard.PNG)
+
 ## Features
 Player Management: Ability to create new players or select existing ones.
 Advanced AI: Utilizes the Minimax algorithm for a challenging single-player experience.
